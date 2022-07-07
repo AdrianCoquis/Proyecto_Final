@@ -100,4 +100,5 @@ body, html {
 .logo {
     height: 40%;
     width: 40%;
+    filter: drop-shadow(5px 5px 5px white);
 }
